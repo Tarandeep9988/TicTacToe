@@ -79,3 +79,16 @@ main {
 .lb {
     border-left: none;
 }
+
+#result {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(22, 22, 22, 0.918);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 50px;
+
+}
